@@ -98,7 +98,7 @@ li {
 
 .productivity, .media, .social, .shops, .news {
     height: 400px;
-    width: 470x;
+    width: auto;
     display: inline-block;
     vertical-align: middle;
     margin-top: 1.5%;
