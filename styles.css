@@ -97,7 +97,7 @@ li {
 }
 
 .productivity, .media, .social, .shops, .news {
-    height: auto;
+    height: 200px;
     width: auto;
     display: inline-block;
     vertical-align: middle;
